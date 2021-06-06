@@ -15,6 +15,15 @@ We have three new link types for our users profile pages, such as https://linktr
 	- On click, the link type displays a list of links to upcoming events.
 	- Clicking on an upcoming event will navigate to the event in SongKick.
 
+ ## Build with React Hooks & Redux
+ <img width="390" height="190" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
+
+## Get Started 
+### ( Localhost Version )
+ 1. Git clone [linktree-coding-challenge](https://github.com/Aishwarya55/linktree-coding-challenge.git) or download zip
+ 2. Install node modules with type `npm install` or `yarn install`
+ 3. Run App with type `npm start`
+
 ## Available Scripts
 
 In the project directory, you can run:
