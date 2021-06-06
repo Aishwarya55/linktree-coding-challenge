@@ -1,0 +1,29 @@
+.extList{
+    display: flex;
+    flex: 1;
+    padding: 0 8px;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid rgba(0,0,0,0.08);
+    cursor: pointer;
+}
+
+.externalLinkContainer{
+    background: #F5F7F8;
+    padding: 0 16px;
+    max-height: 30vh;
+    overflow: auto;
+}
+
+.subCont{
+    display: flex;
+    align-items: center;
+}
+
+.subCont img{
+    cursor: pointer
+}
+
+.desc{
+    padding-bottom: 1.33em;
+}

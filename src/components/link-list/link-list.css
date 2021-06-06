@@ -1,0 +1,9 @@
+.links{
+    padding: 1rem;
+    text-align: center;
+    margin-top: 1rem;
+    transition: background-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99) 0s;
+    border-radius: 3px;
+    cursor: pointer;
+    font-weight: 600;
+}

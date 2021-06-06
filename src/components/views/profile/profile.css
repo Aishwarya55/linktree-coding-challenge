@@ -1,0 +1,23 @@
+.profileContainer{
+    width: 640px;
+    margin: auto;
+    padding:16px 0;
+}
+.userContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 32px;
+    margin-top: 16px;
+}
+
+.userContainer img{
+    width: 80px;
+    margin-bottom: 8px
+}
+
+.userContainer .name{
+    font-size: 16px;
+    font-weight: 600;
+}
