@@ -20,3 +20,8 @@
   right: 0;
   text-align: center;
 }
+
+.footer img{
+  height: 24px;
+  margin: 12px 0;
+}
